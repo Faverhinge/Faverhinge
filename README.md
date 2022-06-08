@@ -1,8 +1,6 @@
 - 👋 Hi, I’m  currently study computer science in school 
-- 👀 I’m interested in software engineering 
+- 👀 pursuing  software engineering 
 - 🌱 I’m currently learning Java and learning html,css,JavaScript
-- 💞️ I’m looking to collaborate on any front end projects 
-- 📫 How to reach me joneesa512@aol.com
 
 
 <!---
